@@ -30,3 +30,6 @@ Our platform utilizes AI-driven metadata to provide deep insights into the lates
 * **Frontend:** Flutter, React Native, Vue 3, Tailwind CSS.
 * **Backend:** Laravel (PHP), Python (Automation Scripts), Node.js.
 * **AI Tools:** ComfyUI (Wan2.1 / Flux), Gemini
+* **Vercel :** [https://pelisplus-hd-online-premium.vercel.app/](https://pelisplus-hd-online-premium.vercel.app/)
+* **Netlify :**[https://pelisplushd-online2026.netlify.app/](https://pelisplushd-online2026.netlify.app/)
+* **Cloudflare :**[https://pelisplus-estrenos-2026.pages.dev/](https://pelisplus-estrenos-2026.pages.dev/)
