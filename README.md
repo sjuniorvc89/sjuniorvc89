@@ -8,7 +8,7 @@ Currently, I am exploring the intersection of **Artificial Intelligence** and **
 
 ## 🚀 Featured Project: Pelisplus HD - Digital Streaming Analysis
 
-As part of my research into SEO Blackhat and high-traffic web architectures, I manage and optimize **[Pelisplus HD](https://ver.pelisplushd.online/)**, a platform dedicated to the analysis and distribution of cinematic content in high definition (HD).
+As part of my research into SEO and high-traffic web architectures, I manage and optimize **[Pelisplus HD](https://ver.pelisplushd.online/)**, a platform dedicated to the analysis and distribution of cinematic content in high definition (HD).
 
 ### 🎬 Latest Cinematic Content & Series 2026
 Our platform utilizes AI-driven metadata to provide deep insights into the latest global premieres. Here are some of our currently analyzed titles:
