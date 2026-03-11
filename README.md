@@ -1,6 +1,6 @@
 # Hi there, I'm Steven Veloz (sjuniorvc89) 👋
 
-I am a **Software Developer** passionate about building high-performance mobile and web applications. My expertise lies in the **Flutter** and **React Native** ecosystems for mobile, and **Laravel 12** with **Inertia.js** and **Vue 3** for robust web architectures.
+I am a **Software Developer** passionate about building high-performance mobile and web applications. My expertise lies in the **Flutter** and **React Native** ecosystems for mobile, and **Laravel 11 & 12** with **Inertia.js** and **Vue 3** for robust web architectures.
 
 Currently, I am exploring the intersection of **Artificial Intelligence** and **Digital Content Distribution**, focusing on SEO optimization and high-speed streaming metadata.
 
